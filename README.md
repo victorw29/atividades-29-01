@@ -129,3 +129,9 @@ O código em C é desenvolvido para ser executado no Raspberry Pi Pico W. Ele ut
 
 5. Execute o programa e observe o funcionamento dos LEDs e do botão de controle.
 
+## Links dos projetos no wokwi simulator:
+
+### Atividade 1: https://wokwi.com/projects/422005264507252737
+
+### Atividade 2: https://wokwi.com/projects/422006303272852481
+
